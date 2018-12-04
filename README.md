@@ -30,7 +30,11 @@ jupyter notebook dog_app.ipynb
 
 ## Results
 ![Sample Output 1][image1]
+
 ![Sample Output 2][image2]
+
 ![Sample Output 3][image3]
+
 ![Sample Output 4][image4]
+
 ![Sample Output 5][image5]
