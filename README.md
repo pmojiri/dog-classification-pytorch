@@ -1,8 +1,10 @@
 [//]: # (Image References)
 
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+[image1]: ./images/file-1.png "Sample Output 1"
+[image2]: ./images/file-2.png "Sample Output 2"
+[image3]: ./images/file-3.png "SampleOutput 3"
+[image4]: ./images/file-4.png "Sample Output 4"
+[image5]: ./images/file-5.png "SampleOutput 5"
 
 
 ## Intoduction
@@ -27,4 +29,8 @@ jupyter notebook dog_app.ipynb
 ```
 
 ## Results
-
+![Sample Output 1][image1]
+![Sample Output 2][image2]
+![Sample Output 3][image3]
+![Sample Output 4][image4]
+![Sample Output 5][image5]
